@@ -1,0 +1,11 @@
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\bin\Debug\RistiNolla.exe.config
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\bin\Debug\RistiNolla.exe
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\bin\Debug\RistiNolla.pdb
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\obj\Debug\RistiNolla.csprojAssemblyReference.cache
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\obj\Debug\RistiNolla.Form1.resources
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\obj\Debug\RistiNolla.Properties.Resources.resources
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.GenerateResource.cache
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.CoreCompileInputs.cache
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\obj\Debug\RistiNolla.exe
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\obj\Debug\RistiNolla.pdb
+C:\Users\veikko.pihlajamaa\source\repos\RistiNolla\RistiNolla\obj\Debug\RistiNolla.Form2.resources
